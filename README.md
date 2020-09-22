@@ -7,7 +7,7 @@ This app calculates tip amount for us in dolars.
 
 Submitted by: **Daniyal Kabir Dar**
 
-Time spent: **10** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
